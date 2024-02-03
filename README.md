@@ -1,7 +1,5 @@
 # Polhemus for C++
 
-### Introduction
-
 This package is a development library for C++ to use Polhemus Fastrak or Isotrak2 on IRIX and WIN32 platforms.
 
 ![Fastrak](doc/img/vr_fastrak.jpg)
